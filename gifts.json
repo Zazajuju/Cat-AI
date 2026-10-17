@@ -1,5 +1,15 @@
 [
   {
+    "id": "gift_602cb5",
+    "name": "Éclair d'Overclocking",
+    "icon": "⚡",
+    "rarity": "Épique",
+    "color": "#ffca28",
+    "found_by": "Zaza",
+    "found_at": "17/10 17:28",
+    "lore": "Fait courir le chat deux fois plus vite pendant sa folie de minuit."
+  },
+  {
     "id": "gift_eea461",
     "name": "Éclair d'Overclocking",
     "icon": "⚡",

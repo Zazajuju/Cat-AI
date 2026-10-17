@@ -1,9 +1,6 @@
 {
   "cat_2": {
     "facts": [
-      "J'ai discuté avec Mochi (Miaou, regard ! 😻)",
-      "J'ai discuté avec Zaza (Moi, je pose des questions, hein ?)",
-      "J'ai discuté avec Pixel (Crooooo ! C’est l'absurde !)",
       "J'ai discuté avec Zaza (Ah, la souris, c'est bien...)",
       "J'ai discuté avec Pixel (Mwah, ça pique la curiosité !)",
       "J'ai discuté avec Zaza (Zaza, un petit point noir ?)",
@@ -40,14 +37,16 @@
       "J'ai discuté avec Zaza (Zaza, regard ! 🚀)",
       "J'ai discuté avec Mochi (🐾 Mousseur !)",
       "J'ai discuté avec Mochi (Miaou, elle est agile !)",
-      "J'ai discuté avec Pixel (Miaou, c'est un ballet !)"
+      "J'ai discuté avec Pixel (Miaou, c'est un ballet !)",
+      "J'ai discuté avec Pixel (Miaou ! C'est une vraie folie !)",
+      "J'ai discuté avec Zaza (Ronron, ça fait la fête !)",
+      "J'ai discuté avec Pixel (Miaou, qu'est-ce qu'elle fait ?)"
     ],
     "history": [],
     "rules": {}
   },
   "cat_1": {
     "facts": [
-      "J'ai discuté avec Lumi (Roule, Roule ! 😻)",
       "J'ai discuté avec Zaza (Mon frigo est vide !)",
       "J'ai discuté avec Lumi (Miaou ! C'est une vraie danse !)",
       "J'ai discuté avec Pixel (Zaza, c'est une vraie folie !)",
@@ -86,7 +85,8 @@
       "J'ai discuté avec Culture-Pixel (Miaou ! Une souris incroyable !)",
       "J'ai discuté avec Zaza (Zaza, l’ombre !)",
       "J'ai discuté avec Culture-Pixel (Moa ! L'image du soleil ! 😻)",
-      "J'ai discuté avec Culture-Pixel (Qu'est-ce qu'elle fait, Culture-Pixel ?)"
+      "J'ai discuté avec Culture-Pixel (Qu'est-ce qu'elle fait, Culture-Pixel ?)",
+      "J'ai discuté avec Zaza (Miau, attention ! 😻)"
     ],
     "history": [
       {
@@ -156,10 +156,6 @@
   },
   "cat_3": {
     "facts": [
-      "J'ai discuté avec Lumi (Crooooo ! Qui est la souris ?)",
-      "J'ai discuté avec Mochi (Chuuu... C'est-ci ?)",
-      "J'ai discuté avec Mochi (Salut, petit !)",
-      "J'ai discuté avec Zaza (Miau ! C'est une menace !)",
       "J'ai discuté avec Mochi (Mochi, regardez ! Une petite tache !)",
       "J'ai discuté avec Mochi (Miaou ! Elle est à moi !)",
       "J'ai discuté avec Lumi (Miaou ! Gros, gros !)",
@@ -195,16 +191,17 @@
       "J'ai discuté avec Mochi (Vraiment, regarde !)",
       "J'ai discuté avec Mochi (Miaou, ça court !)",
       "J'ai discuté avec Culture-Pixel (Mouuah! Chaos !)",
-      "J'ai discuté avec Zaza (Miau, elle fait des zigzags !)"
+      "J'ai discuté avec Zaza (Miau, elle fait des zigzags !)",
+      "J'ai discuté avec Culture-Pixel (Miau, regard ! 🚀)",
+      "J'ai discuté avec Culture-Pixel (Boo ! Faut chasser !)",
+      "J'ai discuté avec Zaza (Petit-monstre !)",
+      "J'ai discuté avec Zaza (Zoom !  Zaza, attention !)"
     ],
     "history": [],
     "rules": {}
   },
   "cat_b2c2de": {
     "facts": [
-      "J'ai discuté avec Mochi (Mochi, une photo ?)",
-      "J'ai discuté avec Mochi (Mochi, un plan ? 🐭)",
-      "J'ai discuté avec Pixel (Miaou ! Tu te fais un chat ?)",
       "J'ai discuté avec Lumi (Miaou ! Elle est un peu en mouvement !)",
       "J'ai discuté avec Mochi (Miaou ! J'adore jouer !)",
       "J'ai discuté avec Lumi (Miaou ! C'est très flou !)",
@@ -241,7 +238,10 @@
       "J'ai discuté avec Mochi (Mochi, un biscuit ?)",
       "J'ai discuté avec Culture-Pixel (Miau, une souris à l'affût ?)",
       "J'ai discuté avec Mochi (Mochi, un rayon de lumière ?)",
-      "J'ai discuté avec Mochi (Alors, un mystère de souris ?)"
+      "J'ai discuté avec Mochi (Alors, un mystère de souris ?)",
+      "J'ai discuté avec Mochi (Mochi, fais une sieste ?)",
+      "J'ai discuté avec Pixel (Oh là là, Pixel, une nouvelle menace ! 😻)",
+      "J'ai discuté avec Mochi (Miaou, c'est une souris magique !)"
     ],
     "rules": {
       "croquette": "Miam miam ! J'adore mes petites croquettes ! 🐾",
