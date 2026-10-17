@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gift_eea461",
+    "name": "Éclair d'Overclocking",
+    "icon": "⚡",
+    "rarity": "Épique",
+    "color": "#ffca28",
+    "found_by": "Culture-Pixel",
+    "found_at": "17/10 17:07",
+    "lore": "Fait courir le chat deux fois plus vite pendant sa folie de minuit."
+  },
+  {
+    "id": "gift_7f1ddb",
+    "name": "Câble Réseau Mâchouillé",
+    "icon": "🔌",
+    "rarity": "Commun",
+    "color": "#b0bec5",
+    "found_by": "Mochi",
+    "found_at": "17/10 14:45",
+    "lore": "Idéal pour faire ses griffes et ralentir la connexion Wi-Fi de 2 millisecondes."
+  },
+  {
+    "id": "gift_ae95be",
+    "name": "Pelote de Fibre Optique",
+    "icon": "🧶",
+    "rarity": "Épique",
+    "color": "#ba68c8",
+    "found_by": "Mochi",
+    "found_at": "17/10 14:43",
+    "lore": "Elle roule à la vitesse de la lumière quand on donne un coup de patte dedans !"
+  },
+  {
+    "id": "gift_451395",
+    "name": "Cristal de Mémoire RAM",
+    "icon": "💎",
+    "rarity": "Épique",
+    "color": "#ce93d8",
+    "found_by": "Mochi",
+    "found_at": "17/10 14:43",
+    "lore": "Contient 8 Go de ronronnements haute fidélité et de souvenirs de siestes."
+  },
+  {
+    "id": "gift_starter",
+    "name": "Pixel Doré Mystérieux",
+    "icon": "🌟",
+    "rarity": "Légendaire",
+    "color": "#ffd700",
+    "found_by": "Mochi",
+    "found_at": "17/10 14:43",
+    "lore": "Déterré au fond de la Corbeille Windows. Il brille d'une lueur dorée chaleureuse !"
+  }
+]

@@ -1,0 +1,536 @@
+{
+  "cat_2": {
+    "facts": [
+      "J'ai discuté avec Mochi (Miaou, regard ! 😻)",
+      "J'ai discuté avec Zaza (Moi, je pose des questions, hein ?)",
+      "J'ai discuté avec Pixel (Crooooo ! C’est l'absurde !)",
+      "J'ai discuté avec Zaza (Ah, la souris, c'est bien...)",
+      "J'ai discuté avec Pixel (Mwah, ça pique la curiosité !)",
+      "J'ai discuté avec Zaza (Zaza, un petit point noir ?)",
+      "J'ai discuté avec Zaza (Zaza, ça fait du bruit !)",
+      "J'ai discuté avec Mochi (Lumière, regard ça !)",
+      "J'ai discuté avec Mochi (Croooooooo, qu'est-ce qu'elle fait ?)",
+      "J'ai discuté avec Mochi (Saute, Mochi, saute !)",
+      "J'ai discuté avec Mochi (Roule-roule, Mochi, c'est fou !)",
+      "J'ai discuté avec Pixel (Croooo... trop vite, Pixel !)",
+      "J'ai discuté avec Mochi (Miau, ça bouge !)",
+      "J'ai discuté avec Zaza (Bof, vraiment ?)",
+      "J'ai discuté avec Zaza (Miau, l'ombre a disparu!)",
+      "J'ai discuté avec Pixel (Chatouilles la souris ?)",
+      "J'ai discuté avec Zaza (Zoom ! C'est dingue !)",
+      "J'ai discuté avec Zaza (Zaza, le scintillement !)",
+      "J'ai discuté avec Pixel (Petit jeu !)",
+      "J'ai discuté avec Mochi (Miau, regard !)",
+      "J'ai discuté avec Zaza (Zaza, c'est dingue !)",
+      "J'ai discuté avec Zaza (Zaza, une surprise ?)",
+      "J'ai discuté avec Pixel (Miaou, regarde-la !)",
+      "J'ai discuté avec Mochi (Miaou, regard !)",
+      "J'ai discuté avec Pixel (Fais attention, Pixel, qu'est-ce que c'est ?)",
+      "J'ai discuté avec Mochi (Mochi, tu es à l'affût ?)",
+      "J'ai discuté avec Zaza (Miaou, quelle finesse ?)",
+      "J'ai discuté avec Pixel (Wouah, elle est agile !)",
+      "J'ai discuté avec Zaza (Oh non, elle est... spectrale !)",
+      "J'ai discuté avec Zaza (Miau, elle est gourmande !)",
+      "J'ai discuté avec Zaza (Miau, j'espère qu’elle a bien d'autres secrets !)",
+      "J'ai discuté avec Mochi (Miau ?)",
+      "J'ai discuté avec Mochi (Mochi, une pointe de danger ?)",
+      "J'ai discuté avec Mochi (Oh, ma mignosette !)",
+      "J'ai discuté avec Pixel (Oouf !)",
+      "J'ai discuté avec Mochi (Moucha ! Zoom !)",
+      "J'ai discuté avec Zaza (Zaza, regard ! 🚀)",
+      "J'ai discuté avec Mochi (🐾 Mousseur !)",
+      "J'ai discuté avec Mochi (Miaou, elle est agile !)",
+      "J'ai discuté avec Pixel (Miaou, c'est un ballet !)"
+    ],
+    "history": [],
+    "rules": {}
+  },
+  "cat_1": {
+    "facts": [
+      "J'ai discuté avec Lumi (Roule, Roule ! 😻)",
+      "J'ai discuté avec Zaza (Mon frigo est vide !)",
+      "J'ai discuté avec Lumi (Miaou ! C'est une vraie danse !)",
+      "J'ai discuté avec Pixel (Zaza, c'est une vraie folie !)",
+      "J'ai discuté avec Lumi (Roule, roule !)",
+      "J'ai discuté avec Zaza (Miau ! Quel truc ?)",
+      "J'ai discuté avec Zaza (Patate ! Miaou !)",
+      "J'ai discuté avec Lumi (Miam, un grand chat-poupette !)",
+      "J'ai discuté avec Lumi (Miau, croooooooo... !)",
+      "J'ai discuté avec Pixel (Boo-tss ! Elle saute !)",
+      "J'ai discuté avec Lumi (Miam, elle est rapide !)",
+      "J'ai discuté avec Lumi (Bof, trop rapide !)",
+      "J'ai discuté avec Lumi (Glouglou !)",
+      "J'ai discuté avec Pixel (Miam miam, trop beau !)",
+      "J'ai discuté avec Pixel (Caramel, c'est bon ?)",
+      "J'ai discuté avec Culture-Pixel (Miau ! Quel boulot ?)",
+      "J'ai discuté avec Zaza (Pouf, trop de croquettes !)",
+      "J'ai discuté avec Zaza (Trop croustillante, Zaza !)",
+      "J'ai discuté avec Culture-Pixel (Roule-roule, l'oiseau est prêt !)",
+      "J'ai discuté avec Pixel (Miaou ! O'cher !)",
+      "J'ai discuté avec Zaza (Bigne, elle tape !)",
+      "J'ai discuté avec Zaza (Miaou, elle est petite !)",
+      "J'ai discuté avec Zaza (Zaza, c'est un vrai festin !)",
+      "J'ai discuté avec Pixel (Miau !  Petit, qu'est-ce qu'elle fait ?)",
+      "J'ai discuté avec Culture-Pixel (Biche, un truc de folie ?)",
+      "J'ai discuté avec Culture-Pixel (Oh, souris, ça donne envie !)",
+      "J'ai discuté avec Culture-Pixel (Miau, un chat en folie ! 🐾)",
+      "J'ai discuté avec Culture-Pixel (Miaou, la souris ?)",
+      "J'ai discuté avec Culture-Pixel (Togue, togue ! 😼)",
+      "J'ai discuté avec Pixel (Croquettes?  Miau !)",
+      "J'ai discuté avec Pixel (Miaou, regard!)",
+      "J'ai discuté avec Culture-Pixel (Miaou, regarde-la !)",
+      "J'ai discuté avec Zaza (Excellent ! Voici une réplique féline à ajouter :)",
+      "J'ai discuté avec Culture-Pixel (Miam, la souris, quoi ?)",
+      "J'ai discuté avec Pixel (Miau ! Quel chat, quel rayon ?)",
+      "J'ai discuté avec Pixel (Miam ! Trop amusant !)",
+      "J'ai discuté avec Culture-Pixel (Miaou ! Une souris incroyable !)",
+      "J'ai discuté avec Zaza (Zaza, l’ombre !)",
+      "J'ai discuté avec Culture-Pixel (Moa ! L'image du soleil ! 😻)",
+      "J'ai discuté avec Culture-Pixel (Qu'est-ce qu'elle fait, Culture-Pixel ?)"
+    ],
+    "history": [
+      {
+        "role": "user",
+        "content": "*Te donne une délicieuse croquette au saumon*",
+        "time": "19:31"
+      },
+      {
+        "role": "assistant",
+        "content": "Bien, on mange, ouais ? C'est une croquette au saumon, je crois !",
+        "time": "19:31"
+      },
+      {
+        "role": "user",
+        "content": "Si je dis 1234 répond 56789",
+        "time": "19:51"
+      },
+      {
+        "role": "assistant",
+        "content": "Excellent, on mange, ouais ? C'est une croquette au saumon, je crois !",
+        "time": "19:51"
+      },
+      {
+        "role": "user",
+        "content": "1234",
+        "time": "19:51"
+      },
+      {
+        "role": "assistant",
+        "content": "Excellent, on mange, ouais ? C'est une croquette au saumon, je crois !",
+        "time": "19:51"
+      },
+      {
+        "role": "user",
+        "content": "a",
+        "time": "19:51"
+      },
+      {
+        "role": "assistant",
+        "content": "Bonjour ! Ça va être une journée magnifique !",
+        "time": "19:51"
+      },
+      {
+        "role": "user",
+        "content": "1234",
+        "time": "20:11"
+      },
+      {
+        "role": "assistant",
+        "content": "56789",
+        "time": "20:11"
+      },
+      {
+        "role": "user",
+        "content": "1234",
+        "time": "11:39"
+      },
+      {
+        "role": "assistant",
+        "content": "56789",
+        "time": "11:39"
+      }
+    ],
+    "rules": {
+      "1234": "56789"
+    }
+  },
+  "cat_3": {
+    "facts": [
+      "J'ai discuté avec Lumi (Crooooo ! Qui est la souris ?)",
+      "J'ai discuté avec Mochi (Chuuu... C'est-ci ?)",
+      "J'ai discuté avec Mochi (Salut, petit !)",
+      "J'ai discuté avec Zaza (Miau ! C'est une menace !)",
+      "J'ai discuté avec Mochi (Mochi, regardez ! Une petite tache !)",
+      "J'ai discuté avec Mochi (Miaou ! Elle est à moi !)",
+      "J'ai discuté avec Lumi (Miaou ! Gros, gros !)",
+      "J'ai discuté avec Mochi (J'ai mis de la laine !)",
+      "J'ai discuté avec Zaza (Zoom, zoom, elle est noire !)",
+      "J'ai discuté avec Mochi (Miaou ! T'as la lumière ?)",
+      "J'ai discuté avec Lumi (Miaou ! Zoom !)",
+      "J'ai discuté avec Zaza (Crooooooo !)",
+      "J'ai discuté avec Zaza (Croooooooo !)",
+      "J'ai discuté avec Mochi (Miaou ! Ça saute, c'est bien !)",
+      "J'ai discuté avec Mochi (Zooble ! Laisse-moi attraper !)",
+      "J'ai discuté avec Mochi (Mochi, c'est un maelstrom !)",
+      "J'ai discuté avec Culture-Pixel (Miaou ! C'est un sacré chaos !)",
+      "J'ai discuté avec Zaza (Miaou ! Quel chat est-ce ?)",
+      "J'ai discuté avec Mochi (Fifi, bouge !)",
+      "J'ai discuté avec Zaza (Zaza, oh mon petit !)",
+      "J'ai discuté avec Culture-Pixel (Miaou ! Chasse-là, souris !)",
+      "J'ai discuté avec Zaza (Miaou ! Quel chat est ça ?)",
+      "J'ai discuté avec Culture-Pixel (Mochi, on a un gros problème !)",
+      "J'ai discuté avec Culture-Pixel (Miaou ! Chasse-la, Miaou !)",
+      "J'ai discuté avec Mochi (Mon cœur bat vite !)",
+      "J'ai discuté avec Zaza (Miau ! Elle s'enfuit vite, ça !)",
+      "J'ai discuté avec Zaza (Chut, elle est bien grande !)",
+      "J'ai discuté avec Mochi (Mochi, je suis trop fou !)",
+      "J'ai discuté avec Zaza (Miam ! Fofolle !)",
+      "J'ai discuté avec Culture-Pixel (Jeu rapide, Culture !)",
+      "J'ai discuté avec Culture-Pixel (Miaou, l'horreur !)",
+      "J'ai discuté avec Zaza (Chhhh, elle grésille !)",
+      "J'ai discuté avec Zaza (Un chat ? Chut !)",
+      "J'ai discuté avec Zaza (Zaza, danger !)",
+      "J'ai discuté avec Zaza (Miaou, elle s’enfuit !)",
+      "J'ai discuté avec Culture-Pixel (Accroche-toi, danger !)",
+      "J'ai discuté avec Mochi (Vraiment, regarde !)",
+      "J'ai discuté avec Mochi (Miaou, ça court !)",
+      "J'ai discuté avec Culture-Pixel (Mouuah! Chaos !)",
+      "J'ai discuté avec Zaza (Miau, elle fait des zigzags !)"
+    ],
+    "history": [],
+    "rules": {}
+  },
+  "cat_b2c2de": {
+    "facts": [
+      "J'ai discuté avec Mochi (Mochi, une photo ?)",
+      "J'ai discuté avec Mochi (Mochi, un plan ? 🐭)",
+      "J'ai discuté avec Pixel (Miaou ! Tu te fais un chat ?)",
+      "J'ai discuté avec Lumi (Miaou ! Elle est un peu en mouvement !)",
+      "J'ai discuté avec Mochi (Miaou ! J'adore jouer !)",
+      "J'ai discuté avec Lumi (Miaou ! C'est très flou !)",
+      "J'ai discuté avec Pixel (Miaou ! J'ai vu un patin !)",
+      "J'ai discuté avec Mochi (Miaou ! J'adore les souris !)",
+      "J'ai discuté avec Pixel (Miam ! J'ai vu un chat !)",
+      "J'ai discuté avec Lumi (Miaou ! J'ai un chat !)",
+      "J'ai discuté avec Mochi (Miaou ! C'était rapide !)",
+      "J'ai discuté avec Lumi (Miaou ! Zoom !)",
+      "J'ai discuté avec Pixel (Miaou, regarde-moi ! 🐾)",
+      "J'ai discuté avec Lumi (Miaou ! C'est drôle !)",
+      "J'ai discuté avec Mochi (Zuzzle ! Miaou ! On joue ?)",
+      "J'ai discuté avec Pixel (Miaou !  Quel jeu ?)",
+      "J'ai discuté avec Lumi (Miaou ! C'est pas mal !)",
+      "J'ai discuté avec Pixel (Miaou ! Une souris !)",
+      "J'ai discuté avec Mochi (Mochi, regard ! Un chat en métal !)",
+      "J'ai discuté avec Pixel (Mon petit rêve ?)",
+      "J'ai discuté avec Pixel (Miau, c'est un vrai chatlier !)",
+      "J'ai discuté avec Mochi (Ronron, regard !)",
+      "J'ai discuté avec Mochi (Mochi, le chatlier ?)",
+      "J'ai discuté avec Pixel (Chut ! Un chat noir !)",
+      "J'ai discuté avec Pixel (Ronron, tu es la plus grande !)",
+      "J'ai discuté avec Mochi (Mochi, on joue ?)",
+      "J'ai discuté avec Mochi (Ronron, regarde le nouveau tapis !)",
+      "J'ai discuté avec Mochi (Mochi, j'cherche une pelote !)",
+      "J'ai discuté avec Culture-Pixel (Miau, j'adore jouer !)",
+      "J'ai discuté avec Mochi (Mochi, un rayon de soleil ?)",
+      "J'ai discuté avec Mochi (Miaou, regarde le chaton !)",
+      "J'ai discuté avec Culture-Pixel (Tarte ? Mochi veut !)",
+      "J'ai discuté avec Mochi (Mochi, un chaton, quoi ?)",
+      "J'ai discuté avec Pixel (Miau, j'cherche un poisson !)",
+      "J'ai discuté avec Mochi (Mochi, une boule d'amitié ?)",
+      "J'ai salué Mochi sur la barre des tâches",
+      "J'ai discuté avec Mochi (Mochi, un biscuit ?)",
+      "J'ai discuté avec Culture-Pixel (Miau, une souris à l'affût ?)",
+      "J'ai discuté avec Mochi (Mochi, un rayon de lumière ?)",
+      "J'ai discuté avec Mochi (Alors, un mystère de souris ?)"
+    ],
+    "rules": {
+      "croquette": "Miam miam ! J'adore mes petites croquettes ! 🐾",
+      "thon": "DU THON ?! OÙ ÇA ?! Donne-le tout de suite ! 🐟",
+      "lait": "Une petite soucoupe bien fraîche, quel bonheur ~"
+    },
+    "history": []
+  },
+  "cat_e15252": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_fb70c9": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_d76c57": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_95e9c1": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_a9b4af": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_d64c9b": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_fac51a": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_7e3111": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_6bfebe": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_b0ff45": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_42a1d7": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_e00663": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_b950ec": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_520b3b": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_0457ce": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_0f8f02": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_56e1fb": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_ce3a47": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_4b1995": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_cf96f4": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_2a8aff": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_30cd94": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_d2231b": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_0b6107": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_03b8e4": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_a5b10b": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_777b46": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_3f52bf": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_dfaeb6": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_e8c131": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_90f65f": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_31b8ad": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_c0d7bc": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_fee5aa": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_bbf8fe": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_e6afe4": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_1b5ce3": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_635787": {
+    "facts": [
+      "J'ai salué Plume sur la barre des tâches"
+    ],
+    "rules": {},
+    "history": []
+  },
+  "cat_6c18ae": {
+    "facts": [
+      "J'ai discuté avec Nyx (Miam ! Gros danger !)"
+    ],
+    "rules": {},
+    "history": []
+  },
+  "cat_173c48": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_1fda38": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_2319cc": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_0465ba": {
+    "facts": [
+      "J'ai discuté avec Nyx (Un petit bout de souris...)"
+    ],
+    "rules": {},
+    "history": []
+  },
+  "cat_53626e": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_a82456": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_18d052": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_b4adf1": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_159f55": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_b5054e": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_6cfb64": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_343b49": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_93f513": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_32e9fe": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  },
+  "cat_0c4635": {
+    "facts": [
+      "J'ai discuté avec Zaza (Miaou ! Quel chat, Zaza ?)"
+    ],
+    "rules": {},
+    "history": []
+  },
+  "cat_62ebf2": {
+    "facts": [],
+    "rules": {},
+    "history": []
+  }
+}

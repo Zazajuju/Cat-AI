@@ -1,0 +1,60 @@
+{
+  "xp": 280,
+  "level": 1,
+  "active_quests": [
+    {
+      "id": "quest_a8ed38",
+      "template_id": "teach_rule",
+      "title": "Éducation & Répliques 🧠",
+      "description": "Apprendre une réplique ou poser une question dans le chat",
+      "action_type": "chat",
+      "current_count": 0,
+      "target_count": 2,
+      "icon": "🧠",
+      "reward_xp": 70,
+      "completed": false,
+      "claimed": false
+    },
+    {
+      "id": "quest_f2c759",
+      "template_id": "chat_with_cat",
+      "title": "Discussion Secrète 💬",
+      "description": "Envoyer un message de discussion à un chat",
+      "action_type": "chat",
+      "current_count": 0,
+      "target_count": 1,
+      "icon": "💬",
+      "reward_xp": 50,
+      "completed": false,
+      "claimed": false
+    },
+    {
+      "id": "quest_704479",
+      "template_id": "loaf_mode",
+      "title": "Boulangerie Féline 🥖",
+      "description": "Mettre un chat en mode pain (loaf)",
+      "action_type": "loaf",
+      "current_count": 0,
+      "target_count": 1,
+      "icon": "🥖",
+      "reward_xp": 40,
+      "completed": false,
+      "claimed": false
+    },
+    {
+      "id": "quest_03a7b6",
+      "template_id": "multi_chat",
+      "title": "Réunion Féline 🗣️",
+      "description": "Faire discuter deux chats ensemble",
+      "action_type": "multi_chat",
+      "current_count": 1,
+      "target_count": 1,
+      "icon": "🗣️",
+      "reward_xp": 80,
+      "completed": true,
+      "claimed": true
+    }
+  ],
+  "completed_count": 4,
+  "last_refresh_date": "2026-10-17"
+}
