@@ -47,7 +47,6 @@ class SettingsDialog(QDialog):
         self.setWindowFlags(
             Qt.WindowType.Window
             | Qt.WindowType.WindowStaysOnTopHint
-            | Qt.WindowType.WindowCloseButtonHint
         )
 
         self.cats_list: List[Dict[str, str]] = [

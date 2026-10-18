@@ -1,32 +1,32 @@
 [
   {
-    "id": "acc_panier_0386c1",
+    "id": "acc_panier_1",
     "type": "panier",
-    "x": -75.0,
-    "y": 1003.0
+    "x": 288.0,
+    "y": 969.0
   },
   {
-    "id": "acc_cabane_3b357a",
-    "type": "cabane",
-    "x": -132.0,
-    "y": 995.0
-  },
-  {
-    "id": "acc_arbre_67db0d",
-    "type": "arbre",
-    "x": -1818.0,
-    "y": 975.0
-  },
-  {
-    "id": "acc_nourriture_d2a551",
+    "id": "acc_food_1",
     "type": "nourriture",
-    "x": -1925.0,
-    "y": 1003.0
+    "x": 672.0,
+    "y": 969.0
   },
   {
-    "id": "acc_eau_cbd86e",
+    "id": "acc_water_1",
     "type": "eau",
-    "x": -1877.0,
-    "y": 1003.0
+    "x": 960.0,
+    "y": 969.0
+  },
+  {
+    "id": "acc_cabane_1",
+    "type": "cabane",
+    "x": 1305.6000000000001,
+    "y": 934.0
+  },
+  {
+    "id": "acc_arbre_1",
+    "type": "arbre",
+    "x": 1632.0,
+    "y": 884.0
   }
 ]

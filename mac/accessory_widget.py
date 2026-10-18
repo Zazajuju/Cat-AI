@@ -289,7 +289,7 @@ class AccessoryWidget(QWidget):
         self.setWindowFlags(
             Qt.WindowType.FramelessWindowHint
             | Qt.WindowType.WindowStaysOnTopHint
-            | Qt.WindowType.SubWindow
+            | Qt.WindowType.Tool
             | Qt.WindowType.NoDropShadowWindowHint
         )
         self.setAttribute(Qt.WidgetAttribute.WA_TranslucentBackground, True)
@@ -492,11 +492,28 @@ class AccessoryManager(QObject):
                 {"id": "acc_arbre_1", "type": "arbre", "x": w_scr * 0.85, "y": g_y - 75},
             ]
 
+        screen = QGuiApplication.primaryScreen()
+        avail = screen.availableGeometry() if screen else None
+
         for item in saved:
+            acc_type = item.get("type", "panier")
+            h_acc = ACCESSORY_DEFS.get(acc_type, {}).get("height", 18) * self.scale
+            w_acc = ACCESSORY_DEFS.get(acc_type, {}).get("width", 24) * self.scale
+
+            pos_x = float(item.get("x", 200))
+            pos_y = float(item.get("y", 900))
+
+            # Recalage automatique si les coordonnées sauvegardées proviennent d'un autre écran / hors-champ
+            if avail:
+                if pos_x < avail.left() or pos_x > avail.right() - w_acc:
+                    pos_x = float(random.randint(avail.left() + 60, max(avail.left() + 80, avail.right() - w_acc - 60)))
+                if pos_y < avail.top() or pos_y > avail.bottom() - 10:
+                    pos_y = float(avail.bottom() - h_acc)
+
             self.spawn_accessory(
-                acc_type=item.get("type", "panier"),
-                pos_x=item.get("x", 200),
-                pos_y=item.get("y", 900),
+                acc_type=acc_type,
+                pos_x=pos_x,
+                pos_y=pos_y,
                 acc_id=item.get("id"),
                 save_after=False,
             )

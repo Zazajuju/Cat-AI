@@ -1,23 +1,73 @@
 [
   {
-    "id": "gift_fc02dc",
+    "id": "gift_0e413e",
+    "name": "Flocon de Ventilateur GPU",
+    "icon": "❄️",
+    "rarity": "Commun",
+    "color": "#cfd8dc",
+    "found_by": "Pixel",
+    "found_at": "18/10 18:05",
+    "lore": "Ultra doux et tiède, parfait comme mini-coussin de sieste pour un chat."
+  },
+  {
+    "id": "gift_a13030",
     "name": "Boîte de Thon Virtuel Doré",
     "icon": "🐟",
     "rarity": "Légendaire",
     "color": "#ffb300",
-    "found_by": "Zaza",
-    "found_at": "18/10 12:45",
+    "found_by": "Pixel",
+    "found_at": "18/10 17:53",
     "lore": "Le Graal absolu de tous les félins de la Terre. Mochi bave rien qu'en la regardant."
   },
   {
-    "id": "gift_9f1fa7",
-    "name": "Cookie Web au Chocolat",
-    "icon": "🍪",
-    "rarity": "Commun",
-    "color": "#bcaaa4",
-    "found_by": "Zaza",
-    "found_at": "18/10 12:45",
-    "lore": "Accepté sur un site web obscur. Le chat l'a croqué avant de vous l'apporter."
+    "id": "gift_2154d3",
+    "name": "Pelote de Fibre Optique",
+    "icon": "🧶",
+    "rarity": "Épique",
+    "color": "#ba68c8",
+    "found_by": "Pixel",
+    "found_at": "18/10 16:41",
+    "lore": "Elle roule à la vitesse de la lumière quand on donne un coup de patte dedans !"
+  },
+  {
+    "id": "gift_cb7956",
+    "name": "Couronne de la Barre des Tâches",
+    "icon": "👑",
+    "rarity": "Légendaire",
+    "color": "#ffab00",
+    "found_by": "Pixel",
+    "found_at": "18/10 16:35",
+    "lore": "Forgée dans les flammes du GPU. Déclare officiellement votre chat Souverain du PC."
+  },
+  {
+    "id": "gift_29093a",
+    "name": "Éclair d'Overclocking",
+    "icon": "⚡",
+    "rarity": "Épique",
+    "color": "#ffca28",
+    "found_by": "Culture-Pixel",
+    "found_at": "18/10 16:29",
+    "lore": "Fait courir le chat deux fois plus vite pendant sa folie de minuit."
+  },
+  {
+    "id": "gift_46dfba",
+    "name": "Boîte de Thon Virtuel Doré",
+    "icon": "🐟",
+    "rarity": "Légendaire",
+    "color": "#ffb300",
+    "found_by": "Pixel",
+    "found_at": "18/10 15:21",
+    "lore": "Le Graal absolu de tous les félins de la Terre. Mochi bave rien qu'en la regardant."
+  },
+  {
+    "id": "gift_568c3a",
+    "name": "Pelote de Fibre Optique",
+    "icon": "🧶",
+    "rarity": "Épique",
+    "color": "#ba68c8",
+    "found_by": "Pixel",
+    "found_at": "18/10 15:21",
+    "lore": "Elle roule à la vitesse de la lumière quand on donne un coup de patte dedans !"
   },
   {
     "id": "gift_50b170",

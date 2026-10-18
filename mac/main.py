@@ -158,6 +158,14 @@ class CatManager(QObject):
         self.tray.show()
 
     def _on_tray_activated(self, reason):
+        # Sur macOS, cliquer sur l'icône de statut ouvre déjà nativement le menu contextuel.
+        # Déclencher l'activation synchrone d'une fenêtre sur Trigger pendant le tracking Cocoa du menu
+        # provoque un crash dans AppKit. On délègue au menu ou au double-clic sécurisé.
+        if sys.platform == "darwin":
+            if reason == QSystemTrayIcon.ActivationReason.DoubleClick:
+                QTimer.singleShot(100, self.open_settings)
+            return
+
         if reason in (
             QSystemTrayIcon.ActivationReason.Trigger,
             QSystemTrayIcon.ActivationReason.DoubleClick,
@@ -772,24 +780,27 @@ class CatManager(QObject):
         worker.deleteLater()
 
     def open_settings(self):
-        if self.settings_dlg is not None and self.settings_dlg.isVisible():
+        try:
+            if self.settings_dlg is not None and self.settings_dlg.isVisible():
+                self.settings_dlg.raise_()
+                self.settings_dlg.activateWindow()
+                return
+
+            self.settings_dlg = SettingsDialog(
+                self.config, self.sprite_bank, memory_manager=self.memory
+            )
+            self.settings_dlg.settings_applied.connect(self.sync_cats_with_config)
+            self.settings_dlg.trigger_test_thought.connect(
+                lambda: self.trigger_random_solo_thought("")
+            )
+            self.settings_dlg.trigger_test_chat.connect(self.trigger_random_multi_chat)
+            self.settings_dlg.request_open_chat_for_cat.connect(self.open_chat_for_cat)
+            self.settings_dlg.request_quit_app.connect(self.quit_app)
+            self.settings_dlg.show()
             self.settings_dlg.raise_()
             self.settings_dlg.activateWindow()
-            return
-
-        self.settings_dlg = SettingsDialog(
-            self.config, self.sprite_bank, memory_manager=self.memory
-        )
-        self.settings_dlg.settings_applied.connect(self.sync_cats_with_config)
-        self.settings_dlg.trigger_test_thought.connect(
-            lambda: self.trigger_random_solo_thought("")
-        )
-        self.settings_dlg.trigger_test_chat.connect(self.trigger_random_multi_chat)
-        self.settings_dlg.request_open_chat_for_cat.connect(self.open_chat_for_cat)
-        self.settings_dlg.request_quit_app.connect(self.quit_app)
-        self.settings_dlg.show()
-        self.settings_dlg.raise_()
-        self.settings_dlg.activateWindow()
+        except Exception as e:
+            print(f"[Cat AI] Erreur lors de l'ouverture des paramètres : {e}", flush=True)
 
     def quit_app(self):
         print("[Cat AI] Fermeture demandee de l'application.", flush=True)

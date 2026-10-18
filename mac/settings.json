@@ -7,7 +7,7 @@
     "chat_interval": 24,
     "enable_chat_interactions": true,
     "show_cat_names": true,
-    "screen_mode": "1",
+    "screen_mode": "all",
     "day_night_mode": "day",
     "enable_laser": false,
     "cats": [
