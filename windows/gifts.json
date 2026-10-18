@@ -1,5 +1,25 @@
 [
   {
+    "id": "gift_fc02dc",
+    "name": "Boîte de Thon Virtuel Doré",
+    "icon": "🐟",
+    "rarity": "Légendaire",
+    "color": "#ffb300",
+    "found_by": "Zaza",
+    "found_at": "18/10 12:45",
+    "lore": "Le Graal absolu de tous les félins de la Terre. Mochi bave rien qu'en la regardant."
+  },
+  {
+    "id": "gift_9f1fa7",
+    "name": "Cookie Web au Chocolat",
+    "icon": "🍪",
+    "rarity": "Commun",
+    "color": "#bcaaa4",
+    "found_by": "Zaza",
+    "found_at": "18/10 12:45",
+    "lore": "Accepté sur un site web obscur. Le chat l'a croqué avant de vous l'apporter."
+  },
+  {
     "id": "gift_50b170",
     "name": "Flocon de Ventilateur GPU",
     "icon": "❄️",

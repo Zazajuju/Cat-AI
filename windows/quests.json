@@ -1,5 +1,5 @@
 {
-  "xp": 345,
+  "xp": 405,
   "level": 1,
   "active_quests": [
     {
@@ -8,12 +8,12 @@
       "title": "Câlins & Caresses 🐾",
       "description": "Caresser un chat 3 fois",
       "action_type": "pet",
-      "current_count": 2,
+      "current_count": 3,
       "target_count": 3,
       "icon": "✨",
       "reward_xp": 60,
-      "completed": false,
-      "claimed": false
+      "completed": true,
+      "claimed": true
     },
     {
       "id": "quest_616a7f",
@@ -55,6 +55,6 @@
       "claimed": true
     }
   ],
-  "completed_count": 5,
+  "completed_count": 6,
   "last_refresh_date": "2026-10-18"
 }
