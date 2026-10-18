@@ -1,22 +1,22 @@
 {
-  "xp": 280,
+  "xp": 345,
   "level": 1,
   "active_quests": [
     {
-      "id": "quest_a8ed38",
-      "template_id": "teach_rule",
-      "title": "Éducation & Répliques 🧠",
-      "description": "Apprendre une réplique ou poser une question dans le chat",
-      "action_type": "chat",
-      "current_count": 0,
-      "target_count": 2,
-      "icon": "🧠",
-      "reward_xp": 70,
+      "id": "quest_394f3e",
+      "template_id": "pet_cats",
+      "title": "Câlins & Caresses 🐾",
+      "description": "Caresser un chat 3 fois",
+      "action_type": "pet",
+      "current_count": 2,
+      "target_count": 3,
+      "icon": "✨",
+      "reward_xp": 60,
       "completed": false,
       "claimed": false
     },
     {
-      "id": "quest_f2c759",
+      "id": "quest_616a7f",
       "template_id": "chat_with_cat",
       "title": "Discussion Secrète 💬",
       "description": "Envoyer un message de discussion à un chat",
@@ -29,7 +29,7 @@
       "claimed": false
     },
     {
-      "id": "quest_704479",
+      "id": "quest_3c715f",
       "template_id": "loaf_mode",
       "title": "Boulangerie Féline 🥖",
       "description": "Mettre un chat en mode pain (loaf)",
@@ -42,19 +42,19 @@
       "claimed": false
     },
     {
-      "id": "quest_03a7b6",
-      "template_id": "multi_chat",
-      "title": "Réunion Féline 🗣️",
-      "description": "Faire discuter deux chats ensemble",
-      "action_type": "multi_chat",
+      "id": "quest_be1488",
+      "template_id": "drink_cat",
+      "title": "Oasis Féline 💧",
+      "description": "Faire boire un chat à la fontaine d'eau",
+      "action_type": "drink",
       "current_count": 1,
       "target_count": 1,
-      "icon": "🗣️",
-      "reward_xp": 80,
+      "icon": "💧",
+      "reward_xp": 65,
       "completed": true,
       "claimed": true
     }
   ],
-  "completed_count": 4,
-  "last_refresh_date": "2026-10-17"
+  "completed_count": 5,
+  "last_refresh_date": "2026-10-18"
 }

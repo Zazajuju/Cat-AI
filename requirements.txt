@@ -1,0 +1,2 @@
+# Dépendances nécessaires pour Cat AI (Windows & macOS)
+PyQt6>=6.6.0

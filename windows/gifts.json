@@ -1,0 +1,142 @@
+[
+  {
+    "id": "gift_50b170",
+    "name": "Flocon de Ventilateur GPU",
+    "icon": "❄️",
+    "rarity": "Commun",
+    "color": "#cfd8dc",
+    "found_by": "Mochi",
+    "found_at": "18/10 12:39",
+    "lore": "Ultra doux et tiède, parfait comme mini-coussin de sieste pour un chat."
+  },
+  {
+    "id": "gift_c6445f",
+    "name": "Vieille Disquette 1.44 Mo",
+    "icon": "💾",
+    "rarity": "Rare",
+    "color": "#81d4fa",
+    "found_by": "Culture-Pixel",
+    "found_at": "18/10 12:33",
+    "lore": "Une relique ancienne du siècle dernier. Elle contient peut-être un poème de chat."
+  },
+  {
+    "id": "gift_a2dadf",
+    "name": "Bug Informatique Sauvage",
+    "icon": "🐛",
+    "rarity": "Rare",
+    "color": "#4fc3f7",
+    "found_by": "Pixel",
+    "found_at": "18/10 09:52",
+    "lore": "Attrapé par la patte entre deux lignes de code. Il frétille encore un peu !"
+  },
+  {
+    "id": "gift_bfc59f",
+    "name": "Cristal de Mémoire RAM",
+    "icon": "💎",
+    "rarity": "Épique",
+    "color": "#ce93d8",
+    "found_by": "Culture-Pixel",
+    "found_at": "17/10 19:16",
+    "lore": "Contient 8 Go de ronronnements haute fidélité et de souvenirs de siestes."
+  },
+  {
+    "id": "gift_a691a9",
+    "name": "Pixel Doré Mystérieux",
+    "icon": "🌟",
+    "rarity": "Légendaire",
+    "color": "#ffd700",
+    "found_by": "Mochi",
+    "found_at": "17/10 18:16",
+    "lore": "Déterré au fond de la Corbeille Windows. Il brille d'une lueur dorée chaleureuse !"
+  },
+  {
+    "id": "gift_0c746e",
+    "name": "Couronne de la Barre des Tâches",
+    "icon": "👑",
+    "rarity": "Légendaire",
+    "color": "#ffab00",
+    "found_by": "Culture-Pixel",
+    "found_at": "17/10 18:10",
+    "lore": "Forgée dans les flammes du GPU. Déclare officiellement votre chat Souverain du PC."
+  },
+  {
+    "id": "gift_186a25",
+    "name": "Couronne de la Barre des Tâches",
+    "icon": "👑",
+    "rarity": "Légendaire",
+    "color": "#ffab00",
+    "found_by": "Pixel",
+    "found_at": "17/10 17:52",
+    "lore": "Forgée dans les flammes du GPU. Déclare officiellement votre chat Souverain du PC."
+  },
+  {
+    "id": "gift_a311e8",
+    "name": "Boîte de Thon Virtuel Doré",
+    "icon": "🐟",
+    "rarity": "Légendaire",
+    "color": "#ffb300",
+    "found_by": "Culture-Pixel",
+    "found_at": "17/10 17:46",
+    "lore": "Le Graal absolu de tous les félins de la Terre. Mochi bave rien qu'en la regardant."
+  },
+  {
+    "id": "gift_602cb5",
+    "name": "Éclair d'Overclocking",
+    "icon": "⚡",
+    "rarity": "Épique",
+    "color": "#ffca28",
+    "found_by": "Zaza",
+    "found_at": "17/10 17:28",
+    "lore": "Fait courir le chat deux fois plus vite pendant sa folie de minuit."
+  },
+  {
+    "id": "gift_eea461",
+    "name": "Éclair d'Overclocking",
+    "icon": "⚡",
+    "rarity": "Épique",
+    "color": "#ffca28",
+    "found_by": "Culture-Pixel",
+    "found_at": "17/10 17:07",
+    "lore": "Fait courir le chat deux fois plus vite pendant sa folie de minuit."
+  },
+  {
+    "id": "gift_7f1ddb",
+    "name": "Câble Réseau Mâchouillé",
+    "icon": "🔌",
+    "rarity": "Commun",
+    "color": "#b0bec5",
+    "found_by": "Mochi",
+    "found_at": "17/10 14:45",
+    "lore": "Idéal pour faire ses griffes et ralentir la connexion Wi-Fi de 2 millisecondes."
+  },
+  {
+    "id": "gift_ae95be",
+    "name": "Pelote de Fibre Optique",
+    "icon": "🧶",
+    "rarity": "Épique",
+    "color": "#ba68c8",
+    "found_by": "Mochi",
+    "found_at": "17/10 14:43",
+    "lore": "Elle roule à la vitesse de la lumière quand on donne un coup de patte dedans !"
+  },
+  {
+    "id": "gift_451395",
+    "name": "Cristal de Mémoire RAM",
+    "icon": "💎",
+    "rarity": "Épique",
+    "color": "#ce93d8",
+    "found_by": "Mochi",
+    "found_at": "17/10 14:43",
+    "lore": "Contient 8 Go de ronronnements haute fidélité et de souvenirs de siestes."
+  },
+  {
+    "id": "gift_starter",
+    "name": "Pixel Doré Mystérieux",
+    "icon": "🌟",
+    "rarity": "Légendaire",
+    "color": "#ffd700",
+    "found_by": "Mochi",
+    "found_at": "17/10 14:43",
+    "lore": "Déterré au fond de la Corbeille Windows. Il brille d'une lueur dorée chaleureuse !"
+  }
+]
