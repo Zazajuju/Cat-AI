@@ -35,6 +35,12 @@
       "text": "Utiliser la machine à pierre à Quarry Gare",
       "done": false,
       "created_at": "17/10 14:39"
+    },
+    {
+      "id": "task_d7110f",
+      "text": "Refait les perso en 32Px",
+      "done": false,
+      "created_at": "19/10 18:05"
     }
   ],
   "cat_3": [

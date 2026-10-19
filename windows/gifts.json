@@ -1,5 +1,325 @@
 [
   {
+    "id": "gift_13b3b2",
+    "name": "Câble Réseau Mâchouillé",
+    "icon": "🔌",
+    "rarity": "Commun",
+    "color": "#b0bec5",
+    "found_by": "Mochi",
+    "found_at": "19/10 20:17",
+    "lore": "Idéal pour faire ses griffes et ralentir la connexion Wi-Fi de 2 millisecondes."
+  },
+  {
+    "id": "gift_0ecec0",
+    "name": "Pixel Doré Mystérieux",
+    "icon": "🌟",
+    "rarity": "Légendaire",
+    "color": "#ffd700",
+    "found_by": "Culture-Pixel",
+    "found_at": "19/10 20:05",
+    "lore": "Déterré au fond de la Corbeille Windows. Il brille d'une lueur dorée chaleureuse !"
+  },
+  {
+    "id": "gift_c3ca4f",
+    "name": "Boîte de Thon Virtuel Doré",
+    "icon": "🐟",
+    "rarity": "Légendaire",
+    "color": "#ffb300",
+    "found_by": "Pixel",
+    "found_at": "19/10 19:41",
+    "lore": "Le Graal absolu de tous les félins de la Terre. Mochi bave rien qu'en la regardant."
+  },
+  {
+    "id": "gift_92b7e0",
+    "name": "Pixel Doré Mystérieux",
+    "icon": "🌟",
+    "rarity": "Légendaire",
+    "color": "#ffd700",
+    "found_by": "Zaza",
+    "found_at": "19/10 18:23",
+    "lore": "Déterré au fond de la Corbeille Windows. Il brille d'une lueur dorée chaleureuse !"
+  },
+  {
+    "id": "gift_c70bac",
+    "name": "Couronne de la Barre des Tâches",
+    "icon": "👑",
+    "rarity": "Légendaire",
+    "color": "#ffab00",
+    "found_by": "Zaza",
+    "found_at": "19/10 18:17",
+    "lore": "Forgée dans les flammes du GPU. Déclare officiellement votre chat Souverain du PC."
+  },
+  {
+    "id": "gift_5bbe16",
+    "name": "Pelote de Fibre Optique",
+    "icon": "🧶",
+    "rarity": "Épique",
+    "color": "#ba68c8",
+    "found_by": "Pixel",
+    "found_at": "19/10 18:05",
+    "lore": "Elle roule à la vitesse de la lumière quand on donne un coup de patte dedans !"
+  },
+  {
+    "id": "gift_562eee",
+    "name": "Couronne de la Barre des Tâches",
+    "icon": "👑",
+    "rarity": "Légendaire",
+    "color": "#ffab00",
+    "found_by": "Pixel",
+    "found_at": "19/10 17:59",
+    "lore": "Forgée dans les flammes du GPU. Déclare officiellement votre chat Souverain du PC."
+  },
+  {
+    "id": "gift_75b746",
+    "name": "Touche Échap Égarée",
+    "icon": "⌨️",
+    "rarity": "Rare",
+    "color": "#80cbc4",
+    "found_by": "Culture-Pixel",
+    "found_at": "19/10 17:47",
+    "lore": "Détachée discrètement du clavier. Pratique pour fuir les réunions ennuyeuses."
+  },
+  {
+    "id": "gift_d0e773",
+    "name": "Cristal de Mémoire RAM",
+    "icon": "💎",
+    "rarity": "Épique",
+    "color": "#ce93d8",
+    "found_by": "Pixel",
+    "found_at": "19/10 17:11",
+    "lore": "Contient 8 Go de ronronnements haute fidélité et de souvenirs de siestes."
+  },
+  {
+    "id": "gift_d1c48d",
+    "name": "Flocon de Ventilateur GPU",
+    "icon": "❄️",
+    "rarity": "Commun",
+    "color": "#cfd8dc",
+    "found_by": "Pixel",
+    "found_at": "19/10 16:59",
+    "lore": "Ultra doux et tiède, parfait comme mini-coussin de sieste pour un chat."
+  },
+  {
+    "id": "gift_d78abd",
+    "name": "Pelote de Fibre Optique",
+    "icon": "🧶",
+    "rarity": "Épique",
+    "color": "#ba68c8",
+    "found_by": "Culture-Pixel",
+    "found_at": "19/10 16:53",
+    "lore": "Elle roule à la vitesse de la lumière quand on donne un coup de patte dedans !"
+  },
+  {
+    "id": "gift_862f8c",
+    "name": "Touche Échap Égarée",
+    "icon": "⌨️",
+    "rarity": "Rare",
+    "color": "#80cbc4",
+    "found_by": "Pixel",
+    "found_at": "19/10 16:47",
+    "lore": "Détachée discrètement du clavier. Pratique pour fuir les réunions ennuyeuses."
+  },
+  {
+    "id": "gift_f8ff2d",
+    "name": "Éclair d'Overclocking",
+    "icon": "⚡",
+    "rarity": "Épique",
+    "color": "#ffca28",
+    "found_by": "Culture-Pixel",
+    "found_at": "19/10 16:41",
+    "lore": "Fait courir le chat deux fois plus vite pendant sa folie de minuit."
+  },
+  {
+    "id": "gift_b70b78",
+    "name": "Éclair d'Overclocking",
+    "icon": "⚡",
+    "rarity": "Épique",
+    "color": "#ffca28",
+    "found_by": "Culture-Pixel",
+    "found_at": "19/10 16:11",
+    "lore": "Fait courir le chat deux fois plus vite pendant sa folie de minuit."
+  },
+  {
+    "id": "gift_a4c181",
+    "name": "Bug Informatique Sauvage",
+    "icon": "🐛",
+    "rarity": "Rare",
+    "color": "#4fc3f7",
+    "found_by": "Zaza",
+    "found_at": "19/10 15:23",
+    "lore": "Attrapé par la patte entre deux lignes de code. Il frétille encore un peu !"
+  },
+  {
+    "id": "gift_ecf53a",
+    "name": "Boîte de Thon Virtuel Doré",
+    "icon": "🐟",
+    "rarity": "Légendaire",
+    "color": "#ffb300",
+    "found_by": "Culture-Pixel",
+    "found_at": "19/10 15:05",
+    "lore": "Le Graal absolu de tous les félins de la Terre. Mochi bave rien qu'en la regardant."
+  },
+  {
+    "id": "gift_f20b78",
+    "name": "Couronne de la Barre des Tâches",
+    "icon": "👑",
+    "rarity": "Légendaire",
+    "color": "#ffab00",
+    "found_by": "Pixel",
+    "found_at": "19/10 14:41",
+    "lore": "Forgée dans les flammes du GPU. Déclare officiellement votre chat Souverain du PC."
+  },
+  {
+    "id": "gift_fb3feb",
+    "name": "Pixel Doré Mystérieux",
+    "icon": "🌟",
+    "rarity": "Légendaire",
+    "color": "#ffd700",
+    "found_by": "Mochi",
+    "found_at": "19/10 14:29",
+    "lore": "Déterré au fond de la Corbeille Windows. Il brille d'une lueur dorée chaleureuse !"
+  },
+  {
+    "id": "gift_1cd28c",
+    "name": "Pelote de Fibre Optique",
+    "icon": "🧶",
+    "rarity": "Épique",
+    "color": "#ba68c8",
+    "found_by": "Pixel",
+    "found_at": "19/10 14:23",
+    "lore": "Elle roule à la vitesse de la lumière quand on donne un coup de patte dedans !"
+  },
+  {
+    "id": "gift_7ebb60",
+    "name": "Vieille Disquette 1.44 Mo",
+    "icon": "💾",
+    "rarity": "Rare",
+    "color": "#81d4fa",
+    "found_by": "Mochi",
+    "found_at": "19/10 13:53",
+    "lore": "Une relique ancienne du siècle dernier. Elle contient peut-être un poème de chat."
+  },
+  {
+    "id": "gift_493303",
+    "name": "Bug Informatique Sauvage",
+    "icon": "🐛",
+    "rarity": "Rare",
+    "color": "#4fc3f7",
+    "found_by": "Mochi",
+    "found_at": "19/10 13:53",
+    "lore": "Attrapé par la patte entre deux lignes de code. Il frétille encore un peu !"
+  },
+  {
+    "id": "gift_5052d6",
+    "name": "Couronne de la Barre des Tâches",
+    "icon": "👑",
+    "rarity": "Légendaire",
+    "color": "#ffab00",
+    "found_by": "Pixel",
+    "found_at": "19/10 13:29",
+    "lore": "Forgée dans les flammes du GPU. Déclare officiellement votre chat Souverain du PC."
+  },
+  {
+    "id": "gift_fd7153",
+    "name": "Flocon de Ventilateur GPU",
+    "icon": "❄️",
+    "rarity": "Commun",
+    "color": "#cfd8dc",
+    "found_by": "Zaza",
+    "found_at": "19/10 13:11",
+    "lore": "Ultra doux et tiède, parfait comme mini-coussin de sieste pour un chat."
+  },
+  {
+    "id": "gift_339f7f",
+    "name": "Bug Informatique Sauvage",
+    "icon": "🐛",
+    "rarity": "Rare",
+    "color": "#4fc3f7",
+    "found_by": "Pixel",
+    "found_at": "18/10 21:11",
+    "lore": "Attrapé par la patte entre deux lignes de code. Il frétille encore un peu !"
+  },
+  {
+    "id": "gift_954298",
+    "name": "Touche Échap Égarée",
+    "icon": "⌨️",
+    "rarity": "Rare",
+    "color": "#80cbc4",
+    "found_by": "Mochi",
+    "found_at": "18/10 20:53",
+    "lore": "Détachée discrètement du clavier. Pratique pour fuir les réunions ennuyeuses."
+  },
+  {
+    "id": "gift_f78d01",
+    "name": "Cristal de Mémoire RAM",
+    "icon": "💎",
+    "rarity": "Épique",
+    "color": "#ce93d8",
+    "found_by": "Pixel",
+    "found_at": "18/10 20:47",
+    "lore": "Contient 8 Go de ronronnements haute fidélité et de souvenirs de siestes."
+  },
+  {
+    "id": "gift_3df1bb",
+    "name": "Couronne de la Barre des Tâches",
+    "icon": "👑",
+    "rarity": "Légendaire",
+    "color": "#ffab00",
+    "found_by": "Pixel",
+    "found_at": "18/10 20:41",
+    "lore": "Forgée dans les flammes du GPU. Déclare officiellement votre chat Souverain du PC."
+  },
+  {
+    "id": "gift_e72953",
+    "name": "Cristal de Mémoire RAM",
+    "icon": "💎",
+    "rarity": "Épique",
+    "color": "#ce93d8",
+    "found_by": "Zaza",
+    "found_at": "18/10 20:17",
+    "lore": "Contient 8 Go de ronronnements haute fidélité et de souvenirs de siestes."
+  },
+  {
+    "id": "gift_83f26e",
+    "name": "Cristal de Mémoire RAM",
+    "icon": "💎",
+    "rarity": "Épique",
+    "color": "#ce93d8",
+    "found_by": "Zaza",
+    "found_at": "18/10 20:11",
+    "lore": "Contient 8 Go de ronronnements haute fidélité et de souvenirs de siestes."
+  },
+  {
+    "id": "gift_9de515",
+    "name": "Touche Échap Égarée",
+    "icon": "⌨️",
+    "rarity": "Rare",
+    "color": "#80cbc4",
+    "found_by": "Zaza",
+    "found_at": "18/10 19:53",
+    "lore": "Détachée discrètement du clavier. Pratique pour fuir les réunions ennuyeuses."
+  },
+  {
+    "id": "gift_372ff3",
+    "name": "Bug Informatique Sauvage",
+    "icon": "🐛",
+    "rarity": "Rare",
+    "color": "#4fc3f7",
+    "found_by": "Culture-Pixel",
+    "found_at": "18/10 19:41",
+    "lore": "Attrapé par la patte entre deux lignes de code. Il frétille encore un peu !"
+  },
+  {
+    "id": "gift_fab7fd",
+    "name": "Câble Réseau Mâchouillé",
+    "icon": "🔌",
+    "rarity": "Commun",
+    "color": "#b0bec5",
+    "found_by": "Zaza",
+    "found_at": "18/10 18:41",
+    "lore": "Idéal pour faire ses griffes et ralentir la connexion Wi-Fi de 2 millisecondes."
+  },
+  {
     "id": "gift_0e413e",
     "name": "Flocon de Ventilateur GPU",
     "icon": "❄️",
